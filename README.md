@@ -21,7 +21,11 @@ Screenshots of Buddybot:
 
 
 
+
+
 ![Screenshot 2023-12-16 194731](https://github.com/sakshiisinghh/BuddyBot/assets/87891878/27a58a3e-966f-4e8a-875d-954004d6386a)
+
+
 
 
 
@@ -31,12 +35,18 @@ Screenshots of Buddybot:
 
 
 
+
+
 ![Screenshot 2023-12-16 194817](https://github.com/sakshiisinghh/BuddyBot/assets/87891878/874f1ff7-f958-4bfc-97e0-c6d136d8c233)
 
 
 
 
+
+
 ![Screenshot 2023-12-16 194844](https://github.com/sakshiisinghh/BuddyBot/assets/87891878/fc94a39a-d35a-4936-a9b5-658b61c7936a)
+
+
 
 
 

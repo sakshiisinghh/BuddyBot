@@ -13,6 +13,8 @@ The five steps used to create the chatbot:
 
 Screenshots of Buddybot:
 
+
+
 ![Screenshot 2023-12-16 194707](https://github.com/sakshiisinghh/BuddyBot/assets/87891878/05aa7e10-cf61-4b0b-993c-2961c05510d1)
 ![Screenshot 2023-12-16 194731](https://github.com/sakshiisinghh/BuddyBot/assets/87891878/27a58a3e-966f-4e8a-875d-954004d6386a)
 ![Screenshot 2023-12-16 194759](https://github.com/sakshiisinghh/BuddyBot/assets/87891878/30952dd2-ff25-4641-ba98-b5b9d8447ea1)

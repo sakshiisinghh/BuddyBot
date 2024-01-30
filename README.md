@@ -3,12 +3,6 @@ Buddy Bot is a useful chatbot which enables the desktop users to have a conversa
 
 The coding part of Buddy Bot is fully worked with python. This includes many library functions like NLTK, TensorFlow, NumPy and a few others. Json is a python package that helps the query data set to get parsed by the Python code. This json file has the query with different tags. Each tag has a set of patterns and responses. The GUI is also developed using a Python package called tkinter. Tkinter is the standard interface for GUI creations.
 
-The five steps used to create the chatbot:
-1.	Import and load the data file
-2.	Preprocess data
-3.	Create training and testing data
-4.	Build the model
-5.	Predict the response
 
 Screenshots of Buddybot:
 
